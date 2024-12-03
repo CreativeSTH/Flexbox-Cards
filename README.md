@@ -3,7 +3,7 @@
   <p align="center">
    If you make the screen smaller you will see the effect
     <br />
-    <a href="https://creativesth.github.io/Flexbox-Cards/"><strong>Demo »</strong></a>
+    <a href="https://creativesth.github.io/Only-Flexbox-Like-A-Bento-Ui/"><strong>Demo »</strong></a>
     <br />
   </p>
   <div align="center">
